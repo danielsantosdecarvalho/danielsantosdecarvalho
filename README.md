@@ -5,8 +5,8 @@
 </div>
 
 
-<div>      
-      <a href="https://github-readme-stats.vercel.app/api?username=danielsantosdecarvalho" alt="Status Gith Daniel" />      
+<div>   
+      [![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsantosdecarvalho)](https://github.com/danielsantosdecarvalho/github-readme-stats)      
 </div>
 
 <div> 
