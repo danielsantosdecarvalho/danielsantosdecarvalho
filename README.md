@@ -6,11 +6,11 @@
 
 
 <div>      
-      <a target="https://github-readme-stats.vercel.app/api?username=danielsantosdecarvalho" alt="Status Gith Daniel" />      
+      <a href="https://github-readme-stats.vercel.app/api?username=danielsantosdecarvalho" alt="Status Gith Daniel" />      
 </div>
 
 <div> 
-      <p src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosdecarvalho&hide_progress=true" alt="Languages Gith Daniel" />           
+      <p href="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosdecarvalho&hide_progress=true" alt="Languages Gith Daniel" />           
 </div>
 
 ## 🛠 &nbsp;Tech Stack | Tool
