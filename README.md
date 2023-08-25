@@ -1,9 +1,11 @@
 
 <div align="center" >
       <a href="https://github.com/danielsantosdecarvalho" style="display: flex;">
-     <img align="center" height="150em" src="https://media.licdn.com/dms/image/D4E16AQETwK8-7dLPcQ/profile-displaybackgroundimage-shrink_350_1400/0/1673894266940?e=1698278400&v=beta&t=WDob6fnmEUhToLKp2Y2DqlSP3JMx--WUaiIkJ9TXO_o" alt="daniel" />
+      <img align="center" height="150em" src="https://media.licdn.com/dms/image/D4E16AQETwK8-7dLPcQ/profile-displaybackgroundimage-shrink_350_1400/0/1673894266940?e=1698278400&v=beta&t=WDob6fnmEUhToLKp2Y2DqlSP3JMx--WUaiIkJ9TXO_o" alt="daniel" />
 
-      [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielsantosdecarvalho)](https://github.com/danielsantosdecarvalho/github-readme-stats)
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=danielsantosdecarvalho" alt="Status Gith Daniel" />      
+
+      <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielsantosdecarvalho&hide_progress=true" alt="Languages Gith Daniel" />      
 </div>
       
 ## 🛠 &nbsp;Tech Stack | Tool
