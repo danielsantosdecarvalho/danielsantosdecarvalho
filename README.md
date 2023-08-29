@@ -1,4 +1,12 @@
+<div>
+<h2>### Hi there 😃</h2>
 
+I'm Daniel, a software engineer <i>currently</i> based in Brazil.
+
+My main technologies are Java and .Net, but I worked with Golang, Python as a Backend developer and worked with BI and pipelines in a Data Engineer role. 
+
+<div/>
+      
 <div align="center" >
       <a href="https://github.com/danielsantosdecarvalho" style="display: flex;">
       <img align="center" height="150em" src="https://media.licdn.com/dms/image/D4E16AQETwK8-7dLPcQ/profile-displaybackgroundimage-shrink_350_1400/0/1673894266940?e=1698278400&v=beta&t=WDob6fnmEUhToLKp2Y2DqlSP3JMx--WUaiIkJ9TXO_o" alt="daniel" />
